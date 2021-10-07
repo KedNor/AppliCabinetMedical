@@ -1,0 +1,1 @@
+package fr.simplon.medecine.model;
